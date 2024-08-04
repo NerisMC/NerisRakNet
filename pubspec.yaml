@@ -1,7 +1,7 @@
-name: nerismc
-description: 🎮 A server software for Minecraft Bedrock in Dart 
+name: nerisraknet
+description: 🖥️ RakNet implementation for NerisMC
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/NerisMC/NerisRakNet
 
 environment:
   sdk: ^3.3.2
